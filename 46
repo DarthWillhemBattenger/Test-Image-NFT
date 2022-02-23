@@ -1,0 +1,14 @@
+{
+"name": "DoRac Mystery5 #46",
+"description": "Limited searies of DoRac Mystery Box",
+"image": "ipfs://QmUHmbAxDGuHCrQ1GjTUVN83ZLed2JUdZjqJncxtzkmX3J/5.jpg",
+"dna": "e58d78dcdcf4c6554166787ca89d16d4261d99a482094507747bc2c5",
+"edition": 1,
+"date": 1645607453,
+"attributes": [
+{
+"trait_type": "MysteryBox",
+"value": "MisteryBox5"
+}
+]
+}

@@ -1,0 +1,14 @@
+{
+"name": "DoRac Mystery2 #145",
+"description": "Limited searies of DoRac Mystery Box",
+"image": "ipfs://QmUHmbAxDGuHCrQ1GjTUVN83ZLed2JUdZjqJncxtzkmX3J/2.jpg",
+"dna": "729b733317625bf67df6ac454e05f18a15e9c4ad7682c74ad86e27b0",
+"edition": 1,
+"date": 1645607453,
+"attributes": [
+{
+"trait_type": "MysteryBox",
+"value": "MisteryBox2"
+}
+]
+}
